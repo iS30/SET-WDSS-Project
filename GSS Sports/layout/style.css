@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.form {
+    width: 40%;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 45px;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+
+input {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    height: 18px;
+    width: 25%;
+    margin-bottom: 10px;
+    padding: 3px;
+}
+
+.products {
+    margin-left: 20px;
+    padding: 0;
+}
+
+label {
+
+}
+
+.submit {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    border: none;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 15%;
+    background-color: #1ac15c;
+    cursor: pointer;
+    color: whitesmoke;
+}
+
+.loginButton {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    border: none;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 15%;
+    border-radius: 8px;
+    background-color: darkcyan;
+    cursor: pointer;
+    color: whitesmoke;
+}
+
+.signup {
+    color: darkcyan;
+}
+
+.cancel {
+    font-family: "Roboto Thin", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    margin-top: 20px;
+    width: 15%;
+    background-color: #ff1f52;
+    cursor: pointer;
+}
+
+label {
+    padding: 10px;
+}
+
+hr {
+    border: 2px solid darkcyan;
+}
