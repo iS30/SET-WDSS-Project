@@ -1,0 +1,33 @@
+/* cssProducts.css */
+
+/* Product card styling */
+.card {
+    float: left;
+    width: 15rem;
+    margin: 10px;
+    margin-left: 163px;
+    margin-bottom: 40px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+
+.card-title {
+    margin-top: 10px;
+    font-size: 1.25rem;
+}
+
+.card-text {
+    margin-top: 5px;
+}
+
+.btn-primary {
+    margin-top: 10px;
+    width: 100%;
+}
